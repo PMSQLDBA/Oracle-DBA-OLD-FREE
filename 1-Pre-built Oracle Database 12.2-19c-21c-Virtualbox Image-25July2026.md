@@ -1,5 +1,5 @@
 Using the pre-built Oracle 19c VirtualBox image is the fastest way to start learning Oracle because Oracle Linux, Oracle Database, SQL Developer, and sample databases are already configured. 
-The image we're referring to includes Oracle 19c (19.15) along with Oracle Linux and SQL Developer. ([DB Admin Blog][1])
+The image we're referring to includes Oracle 19c (19.15) along with Oracle Linux and SQL Developer. 
 
 Source: 
 https://dbsysupgrade.com/pre-built-oracle-database-12-2-19c-21c-virtualbox-image/
